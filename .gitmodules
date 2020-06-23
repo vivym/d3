@@ -1,0 +1,93 @@
+[submodule "d3-array"]
+	path = d3-array
+	url = https://github.com/d3/d3-array.git
+[submodule "d3-axis"]
+	path = d3-axis
+	url = https://github.com/d3/d3-axis.git
+[submodule "d3-brush"]
+	path = d3-brush
+	url = https://github.com/d3/d3-brush.git
+[submodule "d3-chord"]
+	path = d3-chord
+	url = https://github.com/d3/d3-chord.git
+[submodule "d3-collection"]
+	path = d3-collection
+	url = https://github.com/d3/d3-collection.git
+[submodule "d3-color"]
+	path = d3-color
+	url = https://github.com/d3/d3-color.git
+[submodule "d3-contour"]
+	path = d3-contour
+	url = https://github.com/d3/d3-contour.git
+[submodule "d3-dispatch"]
+	path = d3-dispatch
+	url = https://github.com/d3/d3-dispatch.git
+[submodule "d3-drag"]
+	path = d3-drag
+	url = https://github.com/d3/d3-drag.git
+[submodule "d3-dsv"]
+	path = d3-dsv
+	url = https://github.com/d3/d3-dsv.git
+[submodule "d3-ease"]
+	path = d3-ease
+	url = https://github.com/d3/d3-ease.git
+[submodule "d3-fetch"]
+	path = d3-fetch
+	url = https://github.com/d3/d3-fetch.git
+[submodule "d3-force"]
+	path = d3-force
+	url = https://github.com/d3/d3-force.git
+[submodule "d3-format"]
+	path = d3-format
+	url = https://github.com/d3/d3-format.git
+[submodule "d3-geo"]
+	path = d3-geo
+	url = https://github.com/d3/d3-geo.git
+[submodule "d3-hierarchy"]
+	path = d3-hierarchy
+	url = https://github.com/d3/d3-hierarchy.git
+[submodule "d3-interpolate"]
+	path = d3-interpolate
+	url = https://github.com/d3/d3-interpolate.git
+[submodule "d3-path"]
+	path = d3-path
+	url = https://github.com/d3/d3-path.git
+[submodule "d3-polygon"]
+	path = d3-polygon
+	url = https://github.com/d3/d3-polygon.git
+[submodule "d3-quadtree"]
+	path = d3-quadtree
+	url = https://github.com/d3/d3-quadtree.git
+[submodule "d3-random"]
+	path = d3-random
+	url = https://github.com/d3/d3-random.git
+[submodule "d3-scale"]
+	path = d3-scale
+	url = https://github.com/d3/d3-scale.git
+[submodule "d3-scale-chromatic"]
+	path = d3-scale-chromatic
+	url = https://github.com/d3/d3-scale-chromatic.git
+[submodule "d3-selection"]
+	path = d3-selection
+	url = https://github.com/d3/d3-selection.git
+[submodule "d3-shape"]
+	path = d3-shape
+	url = https://github.com/d3/d3-shape.git
+[submodule "d3-time"]
+	path = d3-time
+	url = https://github.com/d3/d3-time.git
+[submodule "d3-time-format"]
+	path = d3-time-format
+	url = https://github.com/d3/d3-time-format.git
+[submodule "d3-timer"]
+	path = d3-timer
+	url = https://github.com/d3/d3-timer.git
+[submodule "d3-transition"]
+	path = d3-transition
+	url = https://github.com/d3/d3-transition.git
+[submodule "d3-voronoi"]
+	path = d3-voronoi
+	url = https://github.com/d3/d3-voronoi.git
+[submodule "d3-zoom"]
+	path = d3-zoom
+	url = https://github.com/d3/d3-zoom.git
